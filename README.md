@@ -1,5 +1,5 @@
 
-Icon Hover Effects using simpke HTML and CSS
+Icon Hover Effects using simple HTML and CSS
 =========
 A set of simple round icon hover effects with CSS transitions and animations for your inspiration.
 
